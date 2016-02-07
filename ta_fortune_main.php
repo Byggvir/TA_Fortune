@@ -1,14 +1,14 @@
 <?php
 /**
  * @package TA_Fortune
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: TA Fortune
 Plugin URI: http://downlaod.byggvir.de/wordpress/extend/plugins/ta_fortune/
 Description: This is my first plugin to imbed fortunes in a article.
 Author: Thomas Arend
-Version: 0.1
+Version: 0.2
 Author URI: http://byggvir.de/
 */
 
@@ -43,10 +43,11 @@ function tafortune_css() {
 	<style type='text/css'>
 	#tafortune {
 		float: $x;
-		padding-$x: 15px;
-		padding-top: 5px;		
+		padding-$x: 2em;
+		padding-top: 1em;		
 		margin: 0;
 		font-size: 11px;
+		color: blue;
 	}
 	</style>
 	";
