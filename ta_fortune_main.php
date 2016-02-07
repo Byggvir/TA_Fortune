@@ -46,7 +46,7 @@ function tafortune_css() {
 		padding-$x: 2em;
 		padding-top: 1em;		
 		margin: 0;
-		font-size: 11px;
+		font-size: 1em;
 		color: blue;
 	}
 	</style>
