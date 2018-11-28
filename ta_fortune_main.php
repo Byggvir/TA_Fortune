@@ -6,7 +6,7 @@
 /*
 Plugin Name: TA Fortune
 Plugin URI: http://downlaod.byggvir.de/wordpress/extend/plugins/ta_fortune/
-Description: This is my first plugin to imbed fortunes in a article.
+Description: This is my first plugin to imbed fortunes in an article.
 Author: Thomas Arend
 Version: 0.2
 Author URI: http://byggvir.de/
@@ -18,7 +18,7 @@ function tagetmyfortune() {
 	return wptexturize( $fortune ) ;
 }
 
-// This just echoes the chosen line, we'll position it later
+// This just echoes the choosen line, we'll position it later
 
 function tafortune() {
 	$chosen=tagetmyfortune();
