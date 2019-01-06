@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @version 0.2
+ * @version 2019.0.0
  * @wordpress-plugin
  * Plugin Name: TA Fortune
  * Plugin URI: http://wp-plugins.byggvir.de/ta-fortune/
